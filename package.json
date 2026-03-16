@@ -1,0 +1,10 @@
+{
+  "name": "railway-hello",
+  "version": "1.0.0",
+  "description": "Hello World Railway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
+
